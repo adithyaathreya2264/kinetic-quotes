@@ -1,11 +1,11 @@
-# Kinetic Quotes 🖋️
+# Kinetic Quotes
 
 
 > "Words have weight. Store the ones that move you."
 
 **Kinetic Quotes** is a serene, offline-first personal library for collecting thoughts, lyrics, and wisdom. It transforms static text into "tiny kinetic bookmarks" with subtle motion—letters that drift, fade, or shimmer—creating a gallery-like experience for your favorite words.
 
-## ✨ The Core Idea
+## The Core Idea
 
 Most note-taking apps are utilitarian lists. Kinetic Quotes is designed to be a digital sanctuary. The goal was to build a space that feels like a quiet gallery rather than a database.
 
@@ -14,7 +14,7 @@ Most note-taking apps are utilitarian lists. Kinetic Quotes is designed to be a 
 *   **Privacy**: Your data lives on your device.
 *   **Simplicity**: No login, no cloud sync fees, just you and your words.
 
-## 🚀 Features
+## Features
 
 *   **Kinetic Typography**: Choose from 4 animation styles for every quote:
     *   *Drift*: Gentle floating motion (Spring physics).
@@ -27,7 +27,7 @@ Most note-taking apps are utilitarian lists. Kinetic Quotes is designed to be a 
 *   **Data Sovereignty**: Full JSON Export and Import capabilities. You own your data.
 *   **Serene UI**: Glassmorphism headers, blurred ambient backgrounds, and premium typography (*Playfair Display* & *DM Sans*).
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 *   **Framework**: [React 18](https://react.dev/)
 *   **Language**: [TypeScript](https://www.typescriptlang.org/)
@@ -37,7 +37,7 @@ Most note-taking apps are utilitarian lists. Kinetic Quotes is designed to be a 
 *   **Database**: [Dexie.js](https://dexie.org/) (IndexedDB wrapper)
 *   **Icons**: [Lucide React](https://lucide.dev/)
 
-## 🏁 Getting Started
+## Getting Started
 
 Follow these steps to run the project locally on your machine.
 
