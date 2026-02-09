@@ -65,7 +65,7 @@ Follow these steps to run the project locally on your machine.
 
 4.  Open `http://localhost:3000` in your browser.
 
-## 📦 Building for Production
+## Building for Production
 
 To create a production-ready build for deployment:
 
@@ -79,7 +79,7 @@ To preview the build locally:
 npm run preview
 ```
 
-## 🎨 Design System
+## Design System
 
 The app uses a carefully selected "Warm Alabaster" theme to reduce eye strain and evoke the feeling of high-quality paper.
 
